@@ -1,0 +1,10 @@
+run:
+Menu Pilihan
+1. Operasi Geometri Lingkaran
+2. Operasi Geometri Segitiga
+3. Exit
+Pilihan Anda?
+1
+Masukkan jari-jari lingkaran:2
+Luas lingkaran = 12.56
+BUILD SUCCESSFUL (total time: 1 minute 30 seconds)
